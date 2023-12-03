@@ -1,0 +1,14 @@
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\Prog2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\Prog2.AssemblyInfoInputs.cache
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\Prog2.AssemblyInfo.cs
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\Prog2.csproj.CoreCompileInputs.cache
+C:\Users\Ben\Desktop\GB\Progg\Prog2\bin\Debug\net8.0\Prog2.exe
+C:\Users\Ben\Desktop\GB\Progg\Prog2\bin\Debug\net8.0\Prog2.deps.json
+C:\Users\Ben\Desktop\GB\Progg\Prog2\bin\Debug\net8.0\Prog2.runtimeconfig.json
+C:\Users\Ben\Desktop\GB\Progg\Prog2\bin\Debug\net8.0\Prog2.dll
+C:\Users\Ben\Desktop\GB\Progg\Prog2\bin\Debug\net8.0\Prog2.pdb
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\Prog2.dll
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\refint\Prog2.dll
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\Prog2.pdb
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\Prog2.genruntimeconfig.cache
+C:\Users\Ben\Desktop\GB\Progg\Prog2\obj\Debug\net8.0\ref\Prog2.dll
